@@ -1,0 +1,4 @@
+Slime Trouble|
+Objective: Defeat 5 slimes in the Whispering Forest.|
+Reward: 100 gold.|
+Completion message: “Excellent work! The forest is safer because of you. Here is your reward.”|

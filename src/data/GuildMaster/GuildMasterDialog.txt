@@ -1,0 +1,10 @@
+Guild Master
+Welcome, adventurer. Our village needs your help. 
+A group of slimes has appeared in the Whispering Forest. 
+Defeat them and return to me for your reward.
+
+Quest: Slime Trouble
+Objective: Defeat 5 slimes in the Whispering Forest.
+Reward: 100 gold.
+Completion message: “Excellent work! The forest is safer because of you. Here is your reward.”
+[1]->Accept                      [2]->Decline|
